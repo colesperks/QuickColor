@@ -1,2 +1,2 @@
 # QuickColor
-Sketch plugin that lets you apply document color palette to a selection of objects.
+Sketch plugin that lets you apply colors from the document color palette quickly to a selection of objects.
