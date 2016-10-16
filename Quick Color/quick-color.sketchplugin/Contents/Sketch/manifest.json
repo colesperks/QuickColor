@@ -1,6 +1,6 @@
 {
     "name" : "Quick Color",
-    "identifier" : "com.sketchapp.examples.quickcolor",
+    "identifier" : "com.sketchapp.quickcolor",
     "version" : "1.0",
     "description" : "Apply a color from your document colors to a group of objects",
     "authorEmail" : "hello@coleperkins.com",
