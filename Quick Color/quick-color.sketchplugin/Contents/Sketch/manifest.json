@@ -1,0 +1,17 @@
+{
+    "name" : "Quick Color",
+    "identifier" : "com.sketchapp.examples.quickcolor",
+    "version" : "1.0",
+    "description" : "Apply a color from your document colors to a group of objects",
+    "authorEmail" : "hello@coleperkins.com",
+    "author" : "Cole Perkins",
+    "commands" : [
+    {
+      "script" : "quick-color.js",
+      "handler" : "onRun",
+      "shortcut" : "cmd y",
+      "name" : "Quick Color",
+      "identifier" : "quickcolor"
+    }
+  ]
+}
