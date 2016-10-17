@@ -17,16 +17,23 @@ function onRun(context) {
   // Get document colors array
   var documentColors = document.documentData().assets().colors();
 
-  // Convert MSColors into hex strings
-  var palette = [];
+ // Checks if there are document colors
+  if (documentColors.count() > 0) {
+
+    // Convert MSColors into hex strings
+    var palette = [];
+
     for (var i = 0; i < documentColors.count(); i++) {
       palette.push("#" + documentColors[i].hexValue());
 
-
+      //checks to see if colors have a alpha < 1 as not supported yet
       if (documentColors[i].alpha() < 1) {
-        alert("no")
+        document.showMessage("The plugin currently does not support colors with opacity less than 100%, please remove from Document Colors")
       }
     }
+  } else {
+    document.showMessage("You don't have any Document Colors Palette set yet")
+  }
 
   // Prepare for looping through objects in current selection
   var loop = selection.objectEnumerator()
