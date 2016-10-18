@@ -1,3 +1,5 @@
+//this loops the plugin forward
+
 function onRun(context) {
 
   document = context.document;
