@@ -2,7 +2,7 @@
 Sketch plugin that lets you apply colors from the document color palette to a selection of objects.
 
 
-![Screenshot] (https://www.dropbox.com/s/e1jlwkeovr5it34/QuickColorShowcase.gif?raw=1)
+![Screenshot] (https://www.dropbox.com/s/hil9wxavij6xwm7/QuickColorShowcase.gif?raw=1)
 ## Installation
 Download the plugin and double-click to install.
 
