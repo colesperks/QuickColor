@@ -7,11 +7,18 @@
     "author" : "Cole Perkins",
     "commands" : [
     {
-      "script" : "quick-color.js",
+      "script" : "quick-color-forward.js",
       "handler" : "onRun",
-      "shortcut" : "cmd y",
+      "shortcut" : "cmd ]",
       "name" : "Quick Color",
-      "identifier" : "quickcolor"
+      "identifier" : "quickcolor-forward"
+    },
+    {
+      "script" : "quick-color-backward.js",
+      "handler" : "onRun",
+      "shortcut" : "cmd [",
+      "name" : "Quick Color",
+      "identifier" : "quickcolor-backward"
     }
   ]
 }
