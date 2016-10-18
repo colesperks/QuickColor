@@ -7,7 +7,7 @@ Sketch plugin that lets you apply colors from the document color palette to a se
 Download the plugin and double-click to install.
 
 ## Usage
-Once you have document colors set within your sketch file you can then use the shortcut `Cmd + Y` to apply first color in the document color palette to the existing fill of the shape object. By pressing the shortcut again you will proceed to the next color in the document colors. 
+Once you have document colors set within your sketch file you can then use the shortcut `Cmd + ]` to apply first color in the document color palette to the existing fill of the shape object. By pressing the shortcut again you will proceed to the next color in the document colors. This moves you forwards through the document colors. To reverse use the shortcut '`Cmd + [`
 
 If the current color in the object is already in the document colors, the next color in line will be applied. 
 
