@@ -6,19 +6,42 @@
     "authorEmail" : "hello@coleperkins.com",
     "author" : "Cole Perkins",
     "commands" : [
-    {
-      "script" : "quick-color-forward.js",
-      "handler" : "onRun",
-      "shortcut" : "cmd ]",
-      "name" : "Quick Color",
-      "identifier" : "quickcolor-forward"
-    },
-    {
-      "script" : "quick-color-backward.js",
-      "handler" : "onRun",
-      "shortcut" : "cmd [",
-      "name" : "Quick Color",
-      "identifier" : "quickcolor-backward"
+        {
+            "script" : "quick-color.js",
+            "handler" : "fillColorFromDocumentColorsForward",
+            "shortcut" : "cmd ]",
+            "name" : "Quick Document Color",
+            "identifier" : "quick-document-color-forward"
+        },
+        {
+            "script" : "quick-color.js",
+            "handler" : "fillColorFromDocumentColorsBackward",
+            "shortcut" : "cmd [",
+            "name" : "Quick Document Color",
+            "identifier" : "quick-document-color-backward"
+        },
+        {
+            "script" : "quick-color.js",
+            "handler" : "fillColorFromGlobalColorsForward",
+            "shortcut" : "alt cmd ]",
+            "name" : "Quick Global Color",
+            "identifier" : "quick-global-color-forward"
+        },
+        {
+            "script" : "quick-color.js",
+            "handler" : "fillColorFromGlobalColorsBackward",
+            "shortcut" : "alt cmd [",
+            "name" : "Quick Global Color",
+            "identifier" : "quick-global-color-backward"
+        }
+    ],
+    "menu": {
+        "items": [
+            "quick-global-color-forward",
+            "quick-global-color-backward",
+            "-",
+            "quick-document-color-forward",
+            "quick-document-color-backward"
+        ]
     }
-  ]
 }
