@@ -2,7 +2,7 @@
     "name" : "Quick Color",
     "identifier" : "com.sketchapp.quickcolor",
     "version" : "1.0",
-    "description" : "Apply colors from the document color palette to a selection of objects.",
+    "description" : "Apply colors from color palettes to a selection of objects.",
     "authorEmail" : "hello@coleperkins.com",
     "author" : "Cole Perkins",
     "commands" : [
