@@ -25,5 +25,3 @@ Backward Document Colors `Cmd + [`
 
 ## Info & Feedback
 If you have any questions, find a bug, or have ideas for ways to improve the plugin, ping me on twitter: @colesperks
-
-Please Note: The current plugin only works with colors wilth 100% opacity only. 
