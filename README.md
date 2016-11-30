@@ -1,25 +1,29 @@
 ![Screenshot] (https://www.dropbox.com/s/r0barhuy65weawl/QuickColorHeader.png?raw=1)
 
 ## Installation
-Available on <a href="http://sketchtoolbox.com/">Sketch Toolbox</a> <b>or</b> download the plugin and double-click to install.
 
+<ol>
+<li><a href="/colesperks/QuickColor/archive/master.zip">download zip file</a> and unzip</li>
+<li>open <code class="rich-diff-level-one">quick-color.sketchplugin</code></li>
+</ol>
+
+Also available on <a href="http://sketchtoolbox.com/">Sketch Toolbox</a> 
 
 ## Usage
 Once you have color palettes set within your sketch file you can then use the shortcut to apply color to the selected elements. By pressing the shortcut again the next color in the in the palette will be applied. 
 
-
-![Screenshot] (https://www.dropbox.com/s/3gzhc8i2wrhuxmw/PluginShortcut.png?raw=1)
-
+## Shortcut Keys
 <h4>Global Colors</h4>
 <ul>
-<li>Forward Global Colors = <code class="rich-diff-level-one">Cmd + option + ]</code></li>
-<li>Backward Global Colors = <code class="rich-diff-level-one">Cmd + option + [</code></li>
+<li>➡️ Global Colors = <code class="rich-diff-level-one">Cmd + option + ]</code></li>
+<li>⬅️ Global Colors = <code class="rich-diff-level-one">Cmd + option + [</code></li>
 </ul>
 <h4>Document Colors</h4>
 <ul>
-<li>Forward Document Colors = <code class="rich-diff-level-one">Cmd + ]</code></li>
-<li>Backward Document Colors = <code class="rich-diff-level-one">Cmd + [</code></li>
+<li>➡️ Document Colors = <code class="rich-diff-level-one">Cmd + ]</code></li>
+<li>⬅️ Document Colors = <code class="rich-diff-level-one">Cmd + [</code></li>
 </ul>
+
 
 
 ![Screenshot] (https://www.dropbox.com/s/hil9wxavij6xwm7/QuickColorShowcase.gif?raw=1)
