@@ -1,4 +1,4 @@
-![Screenshot] (https://www.dropbox.com/s/r0barhuy65weawl/QuickColorHeader.png?raw=1)
+![Screenshot] (https://www.dropbox.com/s/tbtx5xssnz9vopl/QuickColor%20Header.png?raw=1)
 
 ## Installation
 
@@ -33,6 +33,7 @@ Once you have color palettes set within your sketch file you can then use the sh
 
 ![Screenshot] (https://www.dropbox.com/s/hil9wxavij6xwm7/QuickColorShowcase.gif?raw=1)
 
+
 ## Info & Feedback
 If you have any questions, find a bug, or have ideas for ways to improve the plugin, please create an issue
 
@@ -41,3 +42,5 @@ If you have any questions, find a bug, or have ideas for ways to improve the plu
 <li>🐦 <a href ="https://twitter.com/colesperks"> @colesperks </a></li>
 <li>✉️ <a href ="mailto:hello@coleperkins.com">hello@coleperkins.com</a></li>
 </ul>
+
+🙏 Big thank you to <a href = "https://github.com/Ashung">Ashung</a> for contributing
