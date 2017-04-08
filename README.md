@@ -1,4 +1,4 @@
-![Screenshot] (https://www.dropbox.com/s/tbtx5xssnz9vopl/QuickColor%20Header.png?raw=1)
+![quickcolor header](https://cloud.githubusercontent.com/assets/9797920/24823634/93a78a1c-1bb5-11e7-8085-87250f798dba.png)
 
 ## Installation
 
@@ -31,7 +31,7 @@ Once you have color palettes set within your sketch file you can then use the sh
 
 
 
-![Screenshot] (https://www.dropbox.com/s/hil9wxavij6xwm7/QuickColorShowcase.gif?raw=1)
+![quickcolorshowcase](https://cloud.githubusercontent.com/assets/9797920/24823640/b7e40f0e-1bb5-11e7-905e-1d38ccb12830.gif)
 
 
 ## Info & Feedback
