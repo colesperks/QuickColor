@@ -8,9 +8,8 @@ Using <a href="http://sketchtoolbox.com/">Sketch Toolbox</a>, search for 'QuickC
 
 #### Method 2: 📁 Manually
 <ol>
-<li>📦 <a href="https://github.com//colesperks/QuickColor/archive/master.zip">Download Pugin (.zip)</a> and unzip</li>
-<li>👯 Double click<code class="rich-diff-level-one">quick-color.sketchplugin</code></li>
-<li>🎉 You're good to go!</li>
+<li><a href="https://github.com//colesperks/QuickColor/archive/master.zip">Download Pugin (.zip)</a> and unzip</li>
+<li>Double click<code class="rich-diff-level-one">quick-color.sketchplugin</code></li>
 </ol>
 
 
