@@ -1,5 +1,6 @@
 ![quickcolor header](https://cloud.githubusercontent.com/assets/9797920/24823634/93a78a1c-1bb5-11e7-8085-87250f798dba.png)
 
+
 ## Installation
 
 #### Method 1: ⚒ Sketch Toolbox
@@ -17,6 +18,8 @@ Using <a href="http://sketchtoolbox.com/">Sketch Toolbox</a>, search for 'QuickC
 Once you have color palettes set within your sketch file you can then use the shortcut to apply color to the selected elements. By pressing the shortcut again the next color in the in the palette will be applied. 
 
 ## Shortcut Keys
+![pluginshortcut](https://user-images.githubusercontent.com/9797920/36362136-b7cc2648-14e6-11e8-8deb-51156cb091c5.png)
+
 <h4>Global Colors</h4>
 <ul>
 <li>➡️ Global Colors = <code class="rich-diff-level-one">Cmd + option + ]</code></li>
