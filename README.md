@@ -1,4 +1,4 @@
-![quickcolor header](https://cloud.githubusercontent.com/assets/9797920/24823634/93a78a1c-1bb5-11e7-8085-87250f798dba.png)
+![quickcolor header](https://user-images.githubusercontent.com/9797920/36362203-49bbb62c-14e7-11e8-91ae-118da7b19aed.png)
 
 
 ## Installation
