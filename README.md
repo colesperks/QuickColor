@@ -1,5 +1,6 @@
 ![quickcolor header](https://user-images.githubusercontent.com/9797920/36362203-49bbb62c-14e7-11e8-91ae-118da7b19aed.png)
 
+This plugin is no longer maintained. Feel free to use it as a template
 
 ## Installation
 
